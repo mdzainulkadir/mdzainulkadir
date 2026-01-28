@@ -1,6 +1,7 @@
 # Hey there! 👋 I'm Md Zainul Kadir
 
-![Uploading image.png…]()
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/bad4d89f-c271-4a32-bf64-733da45f5ccd" />
+
 
 ## Data Scientist | AI/ML Enthusiast | Problem Solver
 
